@@ -1,0 +1,1 @@
+Adresses à ne pas utiliser dans un réseau: Adresse réseau (première) et adresse de diffusion (dernière)
